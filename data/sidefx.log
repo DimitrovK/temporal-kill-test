@@ -1,0 +1,125 @@
+1791627349.788 order=chaos-1 step=1 attempt=1 pid=35776
+1791627360.787 order=chaos-1 step=1 attempt=2 pid=35924
+1791627372.791 order=chaos-1 step=1 attempt=3 pid=36091
+1791627386.796 order=chaos-1 step=1 attempt=4 pid=36296
+1791627389.871 order=chaos-1 step=2 attempt=1 pid=36296
+1791627392.932 order=chaos-1 step=3 attempt=1 pid=36296
+1791627396.013 order=chaos-1 step=4 attempt=1 pid=36296
+1791627399.579 order=chaos-1 step=5 attempt=1 pid=36296
+1791627403.213 order=chaos-1 step=6 attempt=1 pid=36296
+1791627406.279 order=chaos-1 step=7 attempt=1 pid=36296
+1791627409.349 order=chaos-1 step=8 attempt=1 pid=36296
+1791627412.415 order=chaos-1 step=9 attempt=1 pid=36296
+1791627415.486 order=chaos-1 step=10 attempt=1 pid=36296
+1791627459.260 order=chaos-hb step=1 attempt=1 pid=37725
+1791627463.886 order=chaos-hb step=1 attempt=2 pid=37920
+1791627466.965 order=chaos-hb step=2 attempt=1 pid=37920
+1791627470.959 order=chaos-hb step=2 attempt=2 pid=38117
+1791627475.965 order=chaos-hb step=2 attempt=3 pid=38227
+1791627479.044 order=chaos-hb step=3 attempt=1 pid=38227
+1791627483.047 order=chaos-hb step=3 attempt=2 pid=38321
+1791627488.051 order=chaos-hb step=3 attempt=3 pid=38396
+1791627495.055 order=chaos-hb step=3 attempt=4 pid=38564
+1791627498.155 order=chaos-hb step=4 attempt=1 pid=38564
+1791627501.228 order=chaos-hb step=5 attempt=1 pid=38564
+1791627504.291 order=chaos-hb step=6 attempt=1 pid=38564
+1791627507.355 order=chaos-hb step=7 attempt=1 pid=38564
+1791627510.424 order=chaos-hb step=8 attempt=1 pid=38564
+1791627513.502 order=chaos-hb step=9 attempt=1 pid=38564
+1791627516.582 order=chaos-hb step=10 attempt=1 pid=38564
+1791627545.014 order=to-s2 step=1 attempt=1 pid=39936
+1791627548.109 order=to-s2 step=2 attempt=1 pid=39936
+1791627559.346 order=to-s2 step=2 attempt=2 pid=40216
+1791627571.350 order=to-s2 step=2 attempt=3 pid=40345
+1791627585.360 order=to-s2 step=2 attempt=4 pid=40569
+1791627588.452 order=to-s2 step=3 attempt=1 pid=40569
+1791627591.523 order=to-s2 step=4 attempt=1 pid=40569
+1791627594.611 order=to-s2 step=5 attempt=1 pid=40569
+1791627597.710 order=to-s2 step=6 attempt=1 pid=40569
+1791627600.793 order=to-s2 step=7 attempt=1 pid=40569
+1791627603.879 order=to-s2 step=8 attempt=1 pid=40569
+1791627606.962 order=to-s2 step=9 attempt=1 pid=40569
+1791627610.049 order=to-s2 step=10 attempt=1 pid=40569
+1791627616.141 order=hb-s2 step=1 attempt=1 pid=41792
+1791627619.244 order=hb-s2 step=2 attempt=1 pid=41792
+1791627623.866 order=hb-s2 step=2 attempt=2 pid=41979
+1791627636.953 order=hb-s2 step=3 attempt=1 pid=42158
+1791627640.952 order=hb-s2 step=3 attempt=2 pid=42346
+1791627646.575 order=hb-s2 step=3 attempt=3 pid=42550
+1791627653.580 order=hb-s2 step=3 attempt=4 pid=42682
+1791627656.673 order=hb-s2 step=4 attempt=1 pid=42682
+1791627659.753 order=hb-s2 step=5 attempt=1 pid=42682
+1791627662.831 order=hb-s2 step=6 attempt=1 pid=42682
+1791627665.913 order=hb-s2 step=7 attempt=1 pid=42682
+1791627668.993 order=hb-s2 step=8 attempt=1 pid=42682
+1791627672.071 order=hb-s2 step=9 attempt=1 pid=42682
+1791627675.143 order=hb-s2 step=10 attempt=1 pid=42682
+1791627681.539 order=to-s3 step=1 attempt=1 pid=43717
+1791627694.649 order=to-s3 step=2 attempt=1 pid=43921
+1791627705.644 order=to-s3 step=2 attempt=2 pid=44096 charge=n/a
+1791627717.652 order=to-s3 step=2 attempt=3 pid=44226 charge=n/a
+1791627720.736 order=to-s3 step=3 attempt=1 pid=44226 charge=n/a
+1791627723.822 order=to-s3 step=4 attempt=1 pid=44226 charge=n/a
+1791627726.908 order=to-s3 step=5 attempt=1 pid=44226 charge=n/a
+1791627729.982 order=to-s3 step=6 attempt=1 pid=44226 charge=n/a
+1791627733.066 order=to-s3 step=7 attempt=1 pid=44226 charge=n/a
+1791627736.150 order=to-s3 step=8 attempt=1 pid=44226 charge=n/a
+1791627739.221 order=to-s3 step=9 attempt=1 pid=44226 charge=n/a
+1791627742.303 order=to-s3 step=10 attempt=1 pid=44226 charge=n/a
+1791627748.316 order=hb-s3 step=1 attempt=1 pid=45396 charge=n/a
+1791627752.935 order=hb-s3 step=1 attempt=2 pid=45472 charge=n/a
+1791627758.557 order=hb-s3 step=1 attempt=3 pid=45545 charge=n/a
+1791627765.563 order=hb-s3 step=1 attempt=4 pid=45646 charge=n/a
+1791627777.184 order=hb-s3 step=1 attempt=5 pid=45815 charge=n/a
+1791627796.189 order=hb-s3 step=1 attempt=6 pid=45891 charge=n/a
+1791627799.277 order=hb-s3 step=2 attempt=1 pid=45891 charge=n/a
+1791627802.357 order=hb-s3 step=3 attempt=1 pid=45891 charge=n/a
+1791627805.439 order=hb-s3 step=4 attempt=1 pid=45891 charge=n/a
+1791627808.514 order=hb-s3 step=5 attempt=1 pid=45891 charge=n/a
+1791627811.584 order=hb-s3 step=6 attempt=1 pid=45891 charge=n/a
+1791627814.670 order=hb-s3 step=7 attempt=1 pid=45891 charge=n/a
+1791627817.747 order=hb-s3 step=8 attempt=1 pid=45891 charge=n/a
+1791627820.837 order=hb-s3 step=9 attempt=1 pid=45891 charge=n/a
+1791627823.917 order=hb-s3 step=10 attempt=1 pid=45891 charge=n/a
+1791627830.089 order=to-s4 step=1 attempt=1 pid=47569 charge=n/a
+1791627843.206 order=to-s4 step=2 attempt=1 pid=47826 charge=n/a
+1791627854.208 order=to-s4 step=2 attempt=2 pid=48016 charge=n/a
+1791627857.304 order=to-s4 step=3 attempt=1 pid=48016 charge=n/a
+1791627868.302 order=to-s4 step=3 attempt=2 pid=48120 charge=n/a
+1791627871.391 order=to-s4 step=4 attempt=1 pid=48120 charge=n/a
+1791627874.493 order=to-s4 step=5 attempt=1 pid=48120 charge=n/a
+1791627877.576 order=to-s4 step=6 attempt=1 pid=48120 charge=n/a
+1791627880.646 order=to-s4 step=7 attempt=1 pid=48120 charge=n/a
+1791627883.719 order=to-s4 step=8 attempt=1 pid=48120 charge=n/a
+1791627886.792 order=to-s4 step=9 attempt=1 pid=48120 charge=n/a
+1791627889.865 order=to-s4 step=10 attempt=1 pid=48120 charge=n/a
+1791627895.928 order=hb-s4 step=1 attempt=1 pid=49243 charge=n/a
+1791627900.546 order=hb-s4 step=1 attempt=2 pid=49358 charge=n/a
+1791627905.553 order=hb-s4 step=1 attempt=3 pid=49429 charge=n/a
+1791627913.172 order=hb-s4 step=1 attempt=4 pid=49558 charge=n/a
+1791627924.175 order=hb-s4 step=1 attempt=5 pid=49688 charge=n/a
+1791627943.181 order=hb-s4 step=1 attempt=6 pid=49725 charge=n/a
+1791627946.250 order=hb-s4 step=2 attempt=1 pid=49725 charge=n/a
+1791627949.352 order=hb-s4 step=3 attempt=1 pid=49725 charge=n/a
+1791627952.430 order=hb-s4 step=4 attempt=1 pid=49725 charge=n/a
+1791627955.500 order=hb-s4 step=5 attempt=1 pid=49725 charge=n/a
+1791627958.572 order=hb-s4 step=6 attempt=1 pid=49725 charge=n/a
+1791627961.643 order=hb-s4 step=7 attempt=1 pid=49725 charge=n/a
+1791627964.712 order=hb-s4 step=8 attempt=1 pid=49725 charge=n/a
+1791627967.784 order=hb-s4 step=9 attempt=1 pid=49725 charge=n/a
+1791627970.853 order=hb-s4 step=10 attempt=1 pid=49725 charge=n/a
+1791628007.674 order=idem-s3 step=1 attempt=1 pid=51605 charge=applied
+1791628012.294 order=idem-s3 step=1 attempt=2 pid=51719 charge=skipped
+1791628017.916 order=idem-s3 step=1 attempt=3 pid=51754 charge=skipped
+1791628024.921 order=idem-s3 step=1 attempt=4 pid=51893 charge=skipped
+1791628036.539 order=idem-s3 step=1 attempt=5 pid=52051 charge=skipped
+1791628055.546 order=idem-s3 step=1 attempt=6 pid=52125 charge=skipped
+1791628058.639 order=idem-s3 step=2 attempt=1 pid=52125 charge=applied
+1791628061.710 order=idem-s3 step=3 attempt=1 pid=52125 charge=applied
+1791628064.777 order=idem-s3 step=4 attempt=1 pid=52125 charge=applied
+1791628067.846 order=idem-s3 step=5 attempt=1 pid=52125 charge=applied
+1791628070.916 order=idem-s3 step=6 attempt=1 pid=52125 charge=applied
+1791628073.992 order=idem-s3 step=7 attempt=1 pid=52125 charge=applied
+1791628077.064 order=idem-s3 step=8 attempt=1 pid=52125 charge=applied
+1791628080.142 order=idem-s3 step=9 attempt=1 pid=52125 charge=applied
+1791628083.219 order=idem-s3 step=10 attempt=1 pid=52125 charge=applied
